@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="silly_putty_article" type="id"/>
+    <item name="alice_article" type="id"/>
+    <item name="article3" type="id"/>
+    
+    <item name="pageKey" type="id"/>
+    <item name="pageAdapter" type="id"/>
+</resources>

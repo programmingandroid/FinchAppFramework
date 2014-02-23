@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" 
+    android:padding="@dimen/video_frame_padding"
+    android:background="#88004499">
+    
+    <VideoView android:id="@+id/videoView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        ></VideoView>   
+
+</FrameLayout>

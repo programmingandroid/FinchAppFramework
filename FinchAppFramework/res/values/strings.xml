@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ListAndContentActivity!</string>
+    <string name="app_name">Media Entities Reader</string>
+    <string name="empty_content">This is where content goes</string>
+    <string name="article">Article</string>
+    <string name="empty_detail">This is where other content, e.g. ToC or index goes</string>
+    <string name="data">Data</string>
+    <string name="empty_list">No data</string>
+    <string name="table_info">Table of Contents</string>
+    <string name="column_count_label">Number of columns: </string>
+    <string name="row_count_label">Number of rows: </string>
+    <string name="content_bundle_label">content_bundle_label</string>
+    <string name="detail_bundle_label">detail_bundle_label</string>
+    <string name="showtab_label">showtab_label</string>
+    <string name="full_screen">Full screen</string>
+    <string name="example_pub_name">Example Magazine</string>
+    <string name="example_issue_info">vol. 2, issue 10 October 2013</string>
+    <string name="page_footer">page </string>
+</resources>
